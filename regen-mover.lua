@@ -1,4 +1,3 @@
-perm()
 if Admin_Folder.Regen.CFrame.Y >= 7757452 then
  notif('Regen has already been moved.')
 else
