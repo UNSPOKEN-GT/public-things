@@ -1,3 +1,6 @@
+local Game_Folder = game:GetService("Workspace").Terrain["_Game"]
+local Admin_Folder = Game_Folder.Admin
+
 if Admin_Folder.Regen.CFrame.Y >= 7757452 then
  notif('Regen has already been moved.')
 else
