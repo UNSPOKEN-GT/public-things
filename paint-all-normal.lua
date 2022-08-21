@@ -1,22 +1,22 @@
 local prefix = "#"
 local LPlayer = game.Players.LocalPlayer
-
+local v1 = "PaintPart"
 
 --[[
 chat bypass removed
 cause fuck you lmfao
 ]]
 
-function transformToColor3(col)
+function transformToColor3(col) -- Oofkohls
 	local r = col.r
 	local g = col.g
 	local b = col.b
-	return Color3.new(r, g, b);
+	return Color3.new(r,g,b);
 end
 
 LPlayer.Chatted:Connect(function(msg)
 	
- if string.sub(msg:lower(), 0, 3) == prefix.."ea" then
+ if string.sub(msg:lower(), 0, 2) == prefix.."c" then
 		cmd("gear me 18474459")
 			
 		wait(.5)
