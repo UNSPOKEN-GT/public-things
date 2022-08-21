@@ -7,7 +7,7 @@ chat bypass removed
 cause fuck you lmfao
 ]]
 
-function transformToColor3(col) -- Oofkohls
+function transformToColor3(col)
 	local r = col.r
 	local g = col.g
 	local b = col.b
