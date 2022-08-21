@@ -1,26 +1,30 @@
 local prefix = "#"
 local LPlayer = game.Players.LocalPlayer
 
-local ChatBar = game.Players.LocalPlayer.PlayerGui.Chat.Frame.ChatBarParentFrame.Frame.BoxFrame.Frame.ChatBar
-local function cmd(massage)
-    ChatBar:SetTextFromInput(massage)
-    game.Players:Chat(massage)
-    ChatBar.Text = ""
-end
+
+--[[
+chat bypass removed
+cause fuck you lmfao
+]]
 
 function transformToColor3(col) -- Oofkohls
 	local r = col.r
 	local g = col.g
 	local b = col.b
-	return Color3.new(r,g,b);
+	return Color3.new(r, g, b);
 end
 
 LPlayer.Chatted:Connect(function(msg)
 	
  if string.sub(msg:lower(), 0, 3) == prefix.."ea" then
-		cmd("gear me 00000000000000000018474459")
-		wait(1)
+		cmd("gear me 18474459")
+			
+		wait(.5)
+			
 		game.Players.LocalPlayer.Character.Humanoid:EquipTool(game.Players.LocalPlayer.Backpack.PaintBucket)
+			
+		wait(1)
+			
 		local remote = game:GetService("Workspace")[game:GetService("Players").LocalPlayer.Name].PaintBucket:WaitForChild("Remotes").ServerControls
 		for i,v in pairs(game.Workspace.Terrain["_Game"].Workspace:GetChildren()) do
 			spawn(function()
