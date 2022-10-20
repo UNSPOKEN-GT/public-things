@@ -1,3 +1,5 @@
+-- ORIGINALITY: NOOBSPLOIT
+
 local FPS1 = 0 
 local FPSCOUNT
 
