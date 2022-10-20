@@ -5,33 +5,19 @@
 -----------------------------------------------------------------------------------------------------------
 
 LINE 0299 - THESE ARE LITERAL IP LOGGERS!
-
 LINE 0300 - THESE ARE LITERAL IP LOGGERS!
-
 LINE 0304 - possible ip logger (2)
-
 line 0945 - while true do end, literally LOL (3)
-
 line 0960 - disabled so they don't change it into an ip logger (4) -- this is a regen finder (unobfuscated)
-
 line 0979 - disabled so they don't change it into an ip logger (5) -- this is a regen finder (unobfuscated)
-
 line 0987 - infinite yield (safe(6))
-
 line 1164 - LITERALLY SKIDDED LMFAO (8/53)
-
 line 1303 - possible skidded (safe(9/53))
-
 line 1306 - unused/disabled already (10/53)
-
 line 1307 - fairly safe ngl (11/53)
-
 line 1384 - this has the chat bypass thing, fairly safe (12/53)
-
 line 1397 - possible ip logger (13/53)
-
 line 1403 - possible ip logger (14/53)
-
 line 1404 - insanely safe ngl (15/53)
 line 1413 - infinite yield (safe(16/53))
 line 1472 - unused/disabled already (17/53)
