@@ -2,7 +2,7 @@
  // 🎃 Roblox but every second you get +1 Jump Power
  // YOU MUST HAVE >= 20 CANDY IN ORDER TO FOR THIS TO WORK!
  // This script will automatically give you radios + drop them to lag the server for a while
-[[--
+]]
 
 -- value
 local amount = 500 -- how much u want to be given
