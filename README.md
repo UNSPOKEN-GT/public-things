@@ -1,8 +1,8 @@
 **BEFORE CHECKING THE SHORTCUT V2 PREMIUM LEAK, READ THIS CAREFULLY**
 
-1. hello this is something i made so you idiots out there don't get ip logged by shortcut
-2. so i checked every loadstring there is, and unobfuscated some since they were bytecode
-3. if u want to find them all just ctrl + f and put 'github' or 'pastebin' (in the shortcut source) 
+1. This file was made in order to protect those who execute it before checking the source
+2. All I did was check every singular loadstring in the script & disable them by malforming
+3. If you want to check for them, simply CTRL + F -> loadstring
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -63,6 +63,8 @@
 
 -----------------------------------------------------------------------------------------------------------
 
+> CODE FOR SAFETY
+
 - insanely safe ngl == it's legit safe as fuck, althought they might change it to something bad
 - fairly safe ngl == execute it at ur own risk
 - disabled so they don't change it into an ip logger == don't want them doing that lmfao
@@ -77,5 +79,5 @@
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-// the lines might be unaccurate since i made some slight changes, etc
-// but hey, you can still manage to find the loadstrings :troll:
+// The lines might be unaccurate since some were made with line changes, etc.
+// But hey, you can still manage to find the loadstrings. :troll:
