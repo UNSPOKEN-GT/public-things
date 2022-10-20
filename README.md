@@ -63,7 +63,7 @@
 
 -----------------------------------------------------------------------------------------------------------
 
-> CODE FOR SAFETY
+/ CODE FOR SAFETY
 
 - insanely safe ngl == it's legit safe as fuck, althought they might change it to something bad
 - fairly safe ngl == execute it at ur own risk
@@ -79,5 +79,5 @@
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-// The lines might be unaccurate since some were made with line changes, etc.
-// But hey, you can still manage to find the loadstrings. :troll:
+> The lines might be unaccurate since some were made with line changes, etc.
+> But hey, you can still manage to find the loadstrings. :troll:
