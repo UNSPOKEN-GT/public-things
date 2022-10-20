@@ -84,3 +84,12 @@
 > The lines might be unaccurate since some were made with line changes, etc.
 
 > But hey, you can still manage to find the loadstrings. :troll:
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+**EVERY SCRIPT I MAKE WILL BE PUBLICIZED, AND EVERY FORKED SCRIPT WILL BE GIVEN IT'S ORIGINAL SOURCE & CREDIT**
+- If you're going to ever fork a huge part of any of my scripts (which I highly doubt) please do give credit
+- Most if not all scripts I make will be made to the public including GUIs unless private
+- No script will be made obfuscated & including Hubs that I might work on in the future
