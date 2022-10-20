@@ -1,6 +1,6 @@
-// hello this is something i made so you idiots out there don't get ip logged by shortcut
-// so i checked every loadstring there is, and unobfuscated some since they were bytecode
-// if u want to find them all just ctrl + f and put 'github' or 'pastebin' (in the shortcut source) 
+- hello this is something i made so you idiots out there don't get ip logged by shortcut
+- so i checked every loadstring there is, and unobfuscated some since they were bytecode
+- if u want to find them all just ctrl + f and put 'github' or 'pastebin' (in the shortcut source) 
 
 -----------------------------------------------------------------------------------------------------------
 
