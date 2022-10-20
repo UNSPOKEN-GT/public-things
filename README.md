@@ -6,6 +6,8 @@
 
 -----------------------------------------------------------------------------------------------------------
 
+/ LINES THAT HAVE BEEN CHECKED
+
 - LINE 0299 - THESE ARE LITERAL IP LOGGERS!
 - LINE 0300 - THESE ARE LITERAL IP LOGGERS!
 - LINE 0304 - possible ip logger (2)
