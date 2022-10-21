@@ -89,7 +89,7 @@
 -----------------------------------------------------------------------------------------------------------
 
 
-**EVERY SCRIPT I MAKE WILL BE PUBLICIZED, AND EVERY FORKED SCRIPT WILL BE GIVEN IT'S ORIGINAL SOURCE & CREDIT**
+**EVERY SCRIPT I MAKE WILL BE PUBLICIZED, AND EVERY FORKED SCRIPT WILL BE GIVEN ITS ORIGINAL SOURCE & CREDIT**
 - If you're going to ever fork a huge part of any of my scripts (which I highly doubt) please do give me credit
 - Most if not all scripts I make will be made to the public including GUIs unless made private for own purposes
 - No script made by me will ever be obfuscated including Hubs that I might work on in the future, since I respect
