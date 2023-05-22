@@ -1,3 +1,7 @@
+--[[
+a command system i found on youtube
+]]--
+
 local prefix = ":"
 local LPlayer = game.Players.LocalPlayer
 LPlayer.Chatted:Connect(function(msg)
