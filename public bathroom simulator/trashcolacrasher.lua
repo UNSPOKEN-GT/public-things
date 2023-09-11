@@ -1,3 +1,5 @@
+--// somewhat of a good script, ill try fixing it when i get motivated
+
 local camera = game.Workspace.CurrentCamera
 
 camera.CameraType = Enum.CameraType.Scriptable
